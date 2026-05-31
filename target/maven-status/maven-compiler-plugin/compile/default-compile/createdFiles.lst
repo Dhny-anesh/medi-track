@@ -1,0 +1,4 @@
+com\airtribe\meditrack\repository\DoctorRepository.class
+com\airtribe\meditrack\repository\PatientRepository.class
+com\airtribe\meditrack\controller\RestExceptionHandler.class
+com\airtribe\meditrack\dto\CreatePatientRequest.class
